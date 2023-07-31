@@ -1,5 +1,5 @@
 
-# Smart Home Devies (Team 7)
+# Smart Home Devies
 In this project we design and implement the user interface of an interactive central command system. We've designed it in a way where it will be used to control multiple devices in a household in addition to providing desired information.
 
 
